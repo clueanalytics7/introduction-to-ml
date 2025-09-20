@@ -1,0 +1,22 @@
+[browser]
+serverAddress = "0.0.0.0"
+
+[server]
+port = 7860
+address = "0.0.0.0"
+enableCORS = false
+enableXsrfProtection = false
+
+# Disable telemetry to prevent permission errors
+[global]
+developmentMode = false
+
+# Disable all the features that try to write to disk
+[client]
+showErrorDetails = false
+
+[runner]
+magicEnabled = false
+
+[scheduler]
+allowRunOnSave = false
