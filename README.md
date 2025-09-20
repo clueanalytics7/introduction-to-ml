@@ -19,5 +19,5 @@ An interactive Streamlit app for exploring machine learning classifiers with rea
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/ml-classifier-playground.git
-cd ml-classifier-playground
+git clone https://github.com/clueanalytics7/introduction-to-ml.git
+cd introduction-to-ml
